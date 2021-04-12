@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on getting my bachelors degree in computer sciences.
 - 🌱 I’m currently learning C++, C, typescript and react.
 - 👯 I’m looking to collaborate on interesting projects to learn new skills.
-- ⚡ Fun fact: ...
 
 ![Patrick007-glitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick007-glitch&count_private=true&show_icons=true&theme=cobalt)
 
