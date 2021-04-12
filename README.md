@@ -9,4 +9,5 @@
 - ⚡ Fun fact: ...
 
 ![Patrick007-glitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick007-glitch&count_private=true&show_icons=true&theme=cobalt)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick007-glitch)](https://github.com/anuraghazra/github-readme-stats&theme=cobalt)
